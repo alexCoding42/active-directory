@@ -16,3 +16,4 @@ In this project, I build a mini corporate network setup and configured Microsoft
 6. Setup a DHCP on the Domain Controller, so when a new client is created it could get automatically an IP address.
 7. Created and ran a PowerShell script to automatically create a thousand users in Active Directory.
 8. Created another Virtual Machine and installed Windows 10 on it. This VM is connected to the private Virtualbox network.
+9. Joined the Windows 10 machine to the domain and logged into it with one of the domain account.
